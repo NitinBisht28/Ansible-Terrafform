@@ -4,7 +4,6 @@ This repository is created **purely for learning and practice purposes**.
 
 I use this repo to practice **Ansible** on real cloud infrastructure, where the required resources are provisioned using **Terraform**. The main goal is to understand how **Terraform and Ansible work together** in real-world DevOps scenarios.
 
-> ⚠️ This repository is **not intended for production use**.
 
 ---
 
